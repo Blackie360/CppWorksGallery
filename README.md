@@ -2,6 +2,8 @@
 
 Welcome to the Blackie360 C++ Playground! This repository contains a collection of C++ projects and code snippets that I've been working on. Feel free to explore and use these projects for your own learning and development.
 
+![C++ Logo](https://www.example.com/path/to/your/cpp-logo.png)
+
 ## Project List
 
 1. **arrays.cpp**
